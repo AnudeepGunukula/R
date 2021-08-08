@@ -21,3 +21,16 @@ paste(c,class(c))
 paste(d,class(d))
 paste(e,class(e))
 
+
+
+# output 
+
+#[1] "2.5 numeric"
+#[1] "25 numeric"
+#[1] "machine_learning character"
+#[1] "200 integer"
+#[1] "20+30i complex"
+#[1] "TRUE logical"
+#
+#[Program exited with exit code 0]
+
