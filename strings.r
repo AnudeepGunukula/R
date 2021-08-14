@@ -27,6 +27,16 @@ cat(str3)
 
 # OUTPUT
 
+#hello
+# mars[1] "hello\n mars"
+#[1] 11
+#[1] FALSE
+#[1] TRUE
+#[1] "hello world"
+#Error: unexpected symbol in "str3 = "python \"dev\"eloper"."
+#Execution halted
+#
+#[Program exited with exit code 1]
 
 
 
