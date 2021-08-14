@@ -18,3 +18,17 @@ v <- floor(6.7)
 paste(v,class(v))
 
 
+
+#OUTPUT:
+
+#[1] "1 numeric"
+#[1] "3 numeric"
+#[1] 5
+#[1] "numeric"
+#[1] "5.6 numeric"
+#[1] "5 numeric"
+#[1] "6 numeric"
+#
+#[Program exited with exit code 0]
+
+
